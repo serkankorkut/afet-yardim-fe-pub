@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/afet-yardim-fe-pub/static/css/main.22d2b07a.chunk.css",
+    "main.js": "/afet-yardim-fe-pub/static/js/main.4d3dabe6.chunk.js",
+    "main.js.map": "/afet-yardim-fe-pub/static/js/main.4d3dabe6.chunk.js.map",
+    "runtime-main.js": "/afet-yardim-fe-pub/static/js/runtime-main.d921b1d0.js",
+    "runtime-main.js.map": "/afet-yardim-fe-pub/static/js/runtime-main.d921b1d0.js.map",
+    "static/css/2.80f479d8.chunk.css": "/afet-yardim-fe-pub/static/css/2.80f479d8.chunk.css",
+    "static/js/2.da5947b1.chunk.js": "/afet-yardim-fe-pub/static/js/2.da5947b1.chunk.js",
+    "static/js/2.da5947b1.chunk.js.map": "/afet-yardim-fe-pub/static/js/2.da5947b1.chunk.js.map",
+    "index.html": "/afet-yardim-fe-pub/index.html",
+    "precache-manifest.6cddf3ef4c5dbf4aa0c4ab324eb0f49f.js": "/afet-yardim-fe-pub/precache-manifest.6cddf3ef4c5dbf4aa0c4ab324eb0f49f.js",
+    "service-worker.js": "/afet-yardim-fe-pub/service-worker.js",
+    "static/css/2.80f479d8.chunk.css.map": "/afet-yardim-fe-pub/static/css/2.80f479d8.chunk.css.map",
+    "static/css/main.22d2b07a.chunk.css.map": "/afet-yardim-fe-pub/static/css/main.22d2b07a.chunk.css.map",
+    "static/js/2.da5947b1.chunk.js.LICENSE.txt": "/afet-yardim-fe-pub/static/js/2.da5947b1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/afet-yardim-fe-pub/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d921b1d0.js",
+    "static/css/2.80f479d8.chunk.css",
+    "static/js/2.da5947b1.chunk.js",
+    "static/css/main.22d2b07a.chunk.css",
+    "static/js/main.4d3dabe6.chunk.js"
+  ]
+}
